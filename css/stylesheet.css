@@ -1,0 +1,136 @@
+body {
+    background-color: #FFCC00;
+    background-image: url(../images/Background.png);
+    background-repeat: repeat;
+    color: #FFFFFF;
+	font-family: "Segoe Print", "Times New Roman", serif;
+}
+
+#container {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: #000000;
+    border-radius: 10px;
+    box-shadow: 12px 12px 12px #FF3300;
+    text-align: center;
+    width: 100%;
+}
+
+nav {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #C0AA48;
+    width: 100%
+	}
+main p a {
+    text-decoration: none;
+    color: #F8070B;
+}
+video {
+    width: 50%;
+    height: auto;
+}
+figcaption {
+    text-decoration: underline;
+}
+figure label {
+    color: #F8070B;
+}
+
+
+
+
+header img {
+    width: 100%;
+}
+main {
+    background-color: #000000;
+    min-width: 250px;
+    min-height: 250px;
+    color: #C0AA48;
+    margin-top: 50px;
+	font-size: 1.5em;
+	margin-bottom: 10px;
+	display: block;
+	text-align: center;
+}
+
+
+footer {
+    background-color: #000000;
+    text-align: center;
+}
+
+nav a {
+    color: #C0AA48;
+    border-left: thick #F8070B solid;
+    border-right: thick #F8070B solid;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-repeat: no-repeat;
+    background-color: #000000;
+}
+
+nav a:hover {
+    color: #F8070B;
+    text-transform: uppercase;
+    background-image: url(../images/thread_PNG.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+ul li {
+	list-style: none;
+}
+
+#Info h2 label {
+    font-size: 30px;
+    font-weight: 900;
+    color: #FC3200;
+
+}
+input {
+    width: 95%;
+    margin-bottom: 10px;
+}
+.noClear {
+    width: auto;
+    margin-right: 10px;
+    clear: none;
+}
+.right {
+    margin-left: 50%;
+}
+
+.left {
+    float: left;
+    width: 50%;
+}
+.select {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    color: #F8070B;
+}
+.custom {
+	float: inherit;
+}
+.customLabel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

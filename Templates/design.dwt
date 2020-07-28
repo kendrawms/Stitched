@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Stitched By Ray | </title>
+<!-- TemplateEndEditable -->
+<link href="../css/stylesheet.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<header><img src="../images/sbr_logo.png" width="738" height="304" alt=""/>&nbsp;</header>
+<nav>
+  <a href="../index.html">Home</a>&nbsp;&nbsp;
+  <a href="../wigs.html">Signature Wigs</a>&nbsp;&nbsp;
+  <a href="../custom.html">Custom Wig</a>&nbsp;&nbsp;	
+  <a href="../contact.html">Contact</a>
+</nav>
+<main><!-- TemplateBeginEditable name="PageContent" -->Content for New main Tag Goes Here<!-- TemplateEndEditable --></main>
+<footer>Site Design By: Kendra Williams&nbsp;</footer>
+</body>
+</html>
